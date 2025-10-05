@@ -7,3 +7,7 @@
 docker compose up --build
 
 L'application sera accessible depuis http://localhost:8085
+
+## En cas d'arrêt du container Spring 
+
+Au premier lancement, il est possible que le container spring crash. Le relancer manuellement suffit à faire fonctionner l'application.
